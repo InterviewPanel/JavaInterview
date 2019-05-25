@@ -54,7 +54,7 @@
   - dubbo
   - zookeeper
 
-- 数据通信
+- 消息队列
   - RocketMQ
 
 - 必会工具
